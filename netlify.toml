@@ -1,0 +1,4 @@
+[build]
+base = ""
+publish = "traget/site"
+command = "./mvnw clean site"
